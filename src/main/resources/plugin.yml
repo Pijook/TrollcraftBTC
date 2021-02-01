@@ -1,0 +1,7 @@
+name: TCTimeCount
+main: pl.pijok.trollcraftbtc.Main
+author: Pijok
+version: 1.0
+commands:
+  aktywnosc:
+    usage: /aktywnosc
